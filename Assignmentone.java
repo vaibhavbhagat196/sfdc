@@ -1,5 +1,6 @@
 package com.capgemini.sfdc;
 
+// question n0. C-6 sum and product of digit 
 public class Assignmentone {
 	
 public static void main(String[]args) {
