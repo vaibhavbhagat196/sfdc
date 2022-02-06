@@ -13,7 +13,7 @@ public class fibbonacci {
 		while(num>=1)//5>=1  4>=1; 3>=1
 		{
 			c=a+b;//c=1; 2; 3; 
-			System.out.println(c);//1 2 
+			System.out.println(c);//1 2 4
 			a=b;//1
 			b=c;//1 2 3
 			num--;//5-----4----3
