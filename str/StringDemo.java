@@ -5,18 +5,18 @@ public class StringDemo {
 	public static void main(String[] args) {
 
 		String str = "Suresh";
-		String str2 = "SURESH";
-
-		System.out.println(str == str2);
-		System.out.println(str.equals(str2));
-		System.out.println(str.equalsIgnoreCase(str2));
-		System.out.println(str.charAt(2));
-		System.out.println(str.length());
+//		String str2 = "SURESH";
 //
-//		String str3 = "Mahesh";
-//		System.out.println(str3);
-//		str3 = "Sarvesh";
-//		System.out.println(str3);
+//		System.out.println(str == str2);
+//		System.out.println(str.equals(str2));
+//		System.out.println(str.equalsIgnoreCase(str2));
+//		System.out.println(str.charAt(2));
+//		System.out.println(str.length());
+////
+		String str3 = "Mahesh";
+		System.out.println(str3);
+		str3 = "Sarvesh";
+		System.out.println(str3);
 
 //		String str4 = "9876543210";
 //		System.out.println(str4);
